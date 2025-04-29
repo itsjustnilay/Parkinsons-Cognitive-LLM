@@ -12,15 +12,6 @@
     * `obi/deid_bert_i2b2`, or  
     * `obi/deid_roberta_i2b2`.
 
-### Example JSON produced by `formatting.ipynb`
-
-```json
-{
-  "text": "Physician Discharge Summary Admit date: 10/12/1982 Discharge date: 10/22/1982 Patient Information Jack Reacher, 54 y.o. male (DOB = 1/21/1928) ...",
-  "meta": {"note_id": "1", "patient_id": "1"},
-  "spans": []
-}
-```
 
 @software{Kailas_2022_ehrdeid,
   author    = {Prajwal Kailas and Shinichi Goto and Max Homilius
